@@ -1,0 +1,16 @@
+.button {
+  border: none;
+  outline: none;
+  cursor: pointer;
+  color: #ffffff;
+  font-size: 25px;
+  background-color: transparent;
+}
+.active-button {
+  border: none;
+  outline: none;
+  cursor: pointer;
+  color: #fec653;
+  font-size: 25px;
+  background-color: transparent;
+}

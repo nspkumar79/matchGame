@@ -1,0 +1,16 @@
+.thumbnail-list-item {
+  margin-bottom: 10px;
+  width: 18%;
+}
+.thumb-button {
+  border: none;
+  cursor: pointer;
+  margin: 0;
+  padding: 0;
+  outline: none;
+  background-color: transparent;
+}
+.thumbnail-image {
+  height: 100px;
+  width: 100px;
+}
